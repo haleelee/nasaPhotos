@@ -1,0 +1,34 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  height: 400px;
+}
+
+body {
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  height: 350vh;
+  background: linear-gradient(rgb(123, 187, 251), rgb(115, 115, 188))
+}
+
+/* #description{
+  text-align: left;
+} */
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
